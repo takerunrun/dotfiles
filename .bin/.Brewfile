@@ -1,9 +1,9 @@
 cask_args appdir: "/Applications"
 
+brew "curl"
+brew "gh"
 brew "git"
 brew "mas"
-brew "curl"
-brew "git"
 brew "tree"
 brew "wget"
 
